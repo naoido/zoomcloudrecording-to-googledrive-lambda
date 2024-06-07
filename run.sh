@@ -1,0 +1,1 @@
+cd lambda && python-lambda-local -f lambda_handler --timeout 900 lambda_function.py ../lambda-test/event.json -e ../lambda-test/env.json
