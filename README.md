@@ -15,7 +15,11 @@
 
 > ./lambda-test/env.json
 
-4. Run
+5. Add your google drive service account key
+
+> ./lambda/service-account-key.json
+
+6. Run
 
 windows: `run.bat`
 
